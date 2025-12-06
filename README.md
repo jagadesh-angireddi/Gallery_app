@@ -13,15 +13,8 @@ A simple React gallery application that fetches images from the Picsum API and d
 
 ---
 ## React Hooks
--useState
--useEffect
-
----
-
-## Tech Stack
-**Frontend:** React, TailwindCSS  
-**HTTP Client:** Axios  
-**API:** https://picsum.photos
+- useState
+- useEffect
 
 ---
 
@@ -53,14 +46,6 @@ npm run dev
 
 ---
 
-## Usage
-- Open the app in your browser  
-- Scroll to view images  
-- Use Next/Prev buttons to change pages  
-- Click on an image to open the original URL  
-
----
-
 ## 🔗 API Used
 ```
 GET https://picsum.photos/v2/list?page={page}&limit=12
@@ -68,7 +53,4 @@ GET https://picsum.photos/v2/list?page={page}&limit=12
 
 
 
-## Contributing
-Contributions, issues, and feature requests are welcome!  
-Feel free to open a pull request.
 
