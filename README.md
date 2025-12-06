@@ -12,6 +12,11 @@ A simple React gallery application that fetches images from the Picsum API and d
 - Clean UI with TailwindCSS  
 
 ---
+## React Hooks
+-useState
+-useEffect
+
+---
 
 ## Tech Stack
 **Frontend:** React, TailwindCSS  
