@@ -1,6 +1,6 @@
 # Gallery App
 
-A simple React gallery application that fetches images from the Picsum API and displays them in a clean, responsive grid layout.
+A simple React gallery application that fetches images from the Picsum API and displays them in a clean, responsive grid layout using UseState and UseEffect Hooks.
 
 ---
 
